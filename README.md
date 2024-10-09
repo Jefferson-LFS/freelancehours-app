@@ -7,7 +7,7 @@
 
 ## Projeto FreelanceHours
 
-FreelanceHours é uma aplicação desenvolvida durante o curso de PHP disponibilizado pela Rocketsea. Desonvolvida em PHP, Laravel e Livewire, onde freelancers podem enviar propostas de horas que podem contribuir em determinado projeto.
+FreelanceHours é uma aplicação desenvolvida durante o curso de PHP disponibilizado pela Rocketseat. Desonvolvida em PHP, Laravel e Livewire, onde freelancers podem enviar propostas de horas que podem contribuir em determinado projeto.
 
 <br>
 
